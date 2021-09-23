@@ -24,6 +24,8 @@ private void OnColumns_Changed(object sender, EventArgs e)
 
 ```
 
+KB article - [How to adjust width of WPF DataGrid (SfDataGrid) when hiding columns using ColumnChooser?](https://www.syncfusion.com/kb/12512/how-to-adjust-width-of-wpf-datagrid-sfdatagrid-when-hiding-columns-using-columnchooser)
+
 ## Requirements to run the demo
 
 Visual Studio 2015 and above versions
